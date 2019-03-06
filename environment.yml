@@ -8,8 +8,8 @@ dependencies:
   - matplotlib
   - pandas
   - obspy
-  - Basemap
-  - basemap-data-hires
   - gmaps
   - json-c
   - cartopy
+  - BeautifulSoup
+  - urllib
