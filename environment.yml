@@ -11,5 +11,3 @@ dependencies:
   - gmaps
   - json-c
   - cartopy
-  - BeautifulSoup
-  - urllib
