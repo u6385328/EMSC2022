@@ -3,3 +3,7 @@
 .DS_Store
 
 
+*.mseed
+*.npz
+*.png
+*.pdf
